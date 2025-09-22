@@ -2,15 +2,15 @@
 
 on:
   schedule:
-    # Каждый день в 03:00 UTC (это 05:00 по Берлину летом / 04:00 зимой)
+    
     - cron: "0 3 * * *"
-  workflow_dispatch: {}  # ручной запуск из вкладки Actions
+  workflow_dispatch: {}  
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # разрешаем коммитить обратно в репозиторий
+      contents: write  
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4

@@ -98,7 +98,7 @@
   let brandFilter = '';
   let page = 1;
 
-  // skeleton while loading
+  
   function showSkeleton(n=9){
     grid.innerHTML = Array.from({length:n}).map(()=>`
       <article class="card">
@@ -132,7 +132,7 @@
     if (brandFilter) list = list.filter(c => (c.brand||'') === brandFilter);
     if (term) list = list.filter(c => (`${c.brand||''} ${c.model||''} ${c.year||''}`).toLowerCase().includes(term));
 
-    // сортировка
+    
     const [key, dir] = (sortSel.value||'price-desc').split('-');
     const mul = dir === 'asc' ? 1 : -1;
     list.sort((a,b)=>{
@@ -183,7 +183,7 @@
       const res = await fetch('./data/cars.json', {cache:'no-store'});
       const json = await res.json();
       ALL = json.cars || [];
-      // чипсы брендов
+    
       const brands = uniqueBrands(ALL);
       chips.innerHTML = ['Все', ...brands].map(b => {
         const val = b==='Все'?'':b;
@@ -200,7 +200,7 @@
         render();
       };
 
-      // updated time
+      
       if (json.updated_at){
         const d = new Date(json.updated_at*1000);
         updated.textContent = 'Обновлено: ' + d.toLocaleString();
