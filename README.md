@@ -41,7 +41,6 @@ Result is saved into ../site/data/cars.json.
 ```
 ## 2. Start local server for landing page
 ```bash
-## 2. Start local server for landing page
 cd ../site
 python -m http.server 8000
 
