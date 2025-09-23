@@ -10,17 +10,17 @@ The project collects **brand, model, year, mileage, price, and photo** of cars a
 
 ---
 
-## ✨ Features
-- 🕵️ Scraper for [Encar.com](https://www.encar.com)  
-- 🚗 Extracts key details: **brand, model, year, mileage, price, image, link**  
-- 📄 Saves data into [`site/data/cars.json`](site/data/cars.json)  
-- 🌐 Responsive landing page (`site/index.html`)  
-- ⚙️ Automated daily update via **GitHub Actions**  
-- 📱 Mobile & desktop friendly  
+## Features
+- Scraper for [Encar.com](https://www.encar.com)  
+- Extracts key details: **brand, model, year, mileage, price, image, link**  
+- Saves data into [`site/data/cars.json`](site/data/cars.json)  
+- Responsive landing page (`site/index.html`)  
+- Automated daily update via **GitHub Actions**  
+- Mobile & desktop friendly  
 
 ---
 
-## 🖥️ Local Setup
+## Local Setup
 
 Clone the repository:
 ```bash
@@ -48,7 +48,7 @@ python -m http.server 8000
 Then open: http://localhost:8000
 ```
 ---
-## ⚡ Automation (CI/CD)
+## Automation (CI/CD)
 
 This repo includes a GitHub Actions workflow:
 
