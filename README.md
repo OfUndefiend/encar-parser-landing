@@ -27,7 +27,9 @@ Clone the repository:
 git clone https://github.com/OfUndefiend/encar-parser-landing.git
 cd encar-parser-landing
 ```
-1. Run the scraper
+
+```bash
+## 1. Run the scraper
 cd scraper
 python -m venv .venv
 .venv\Scripts\activate   # Windows
@@ -36,15 +38,17 @@ python scraper.py
 
 
 Result is saved into ../site/data/cars.json.
-
-2. Start local server for landing page
+```
+```bash
+## 2. Start local server for landing page
 cd ../site
 python -m http.server 8000
 
 
 Then open: http://localhost:8000
-
-⚡ Automation (CI/CD)
+```
+---
+## ⚡ Automation (CI/CD)
 
 This repo includes a GitHub Actions workflow:
 
