@@ -1,275 +1,275 @@
 {
-  "updated_at": 1783747856,
+  "updated_at": 1783835174,
   "cars": [
     {
-      "brand": "현대 더 뉴 그랜저 IG 하이브리드 르블랑",
-      "model": "더 뉴",
+      "brand": "기아 모닝 어반 (JA) 스탠다드",
+      "model": "모닝 어반",
       "year": 2021,
-      "mileage_km": 114763,
-      "price_krw": 24700000,
-      "image": "https://ci.encar.com/carpicture/carpicture02/pic4212/42129095_027.jpg?impolicy=heightRate&rh=384&cw=640&ch=384&cg=Center&wtmk=https://ci.encar.com/wt_mark/w_mark_04.png&t=20260604081625",
-      "link": "https://fem.encar.com/cars/detail/42129095?advClickPosition=mweb_mopre_g1_t225563&listAdvType=mpremium&type=detail&view_type=checked"
+      "mileage_km": 98322,
+      "price_krw": 7900000,
+      "image": "https://ci.encar.com/carpicture/carpicture10/pic4230/42307475_001.jpg?impolicy=heightRate&rh=384&cw=640&ch=384&cg=Center&wtmk=https://ci.encar.com/wt_mark/w_mark_04.png&t=20260706004436",
+      "link": "https://fem.encar.com/cars/detail/42307475?advClickPosition=mweb_mopre_g1_t222785&listAdvType=mpremium&type=detail&view_type=checked"
     },
     {
-      "brand": "벤츠 E-클래스 W212 E300 아방가르드",
-      "model": "E-클래스 W212",
-      "year": 2013,
-      "mileage_km": 104765,
-      "price_krw": 9200000,
-      "image": "https://ci.encar.com/carpicture/carpicture05/pic4045/40454434_001.jpg?impolicy=heightRate&rh=384&cw=640&ch=384&cg=Center&wtmk=https://ci.encar.com/wt_mark/w_mark_04.png&t=20250904061927",
-      "link": "https://fem.encar.com/cars/detail/40454434?advClickPosition=mweb_mopre_g2_t225563&listAdvType=mpremium&type=detail&view_type=checked"
+      "brand": "KG모빌리티(쌍용) 토레스 가솔린 1.5 2WD T7",
+      "model": "토레스",
+      "year": 2022,
+      "mileage_km": 18372,
+      "price_krw": 21400000,
+      "image": "https://ci.encar.com/carpicture/carpicture04/pic4084/40845743_001.jpg?impolicy=heightRate&rh=384&cw=640&ch=384&cg=Center&wtmk=https://ci.encar.com/wt_mark/w_mark_04.png&t=20251030045016",
+      "link": "https://fem.encar.com/cars/detail/40845743?advClickPosition=mweb_mopre_g2_t222785&listAdvType=mpremium&type=detail&view_type=checked"
     },
     {
-      "brand": "기아 셀토스 가솔린 1.6 터보 2WD 시그니처",
-      "model": "셀토스",
+      "brand": "BMW 7시리즈 (G70) 740i sDrive M 스포츠",
+      "model": "7시리즈 (G70)",
+      "year": 2023,
+      "mileage_km": 69691,
+      "price_krw": 95440000,
+      "image": "https://ci.encar.com/carpicture/carpicture03/pic4233/42330360_001.jpg?impolicy=heightRate&rh=384&cw=640&ch=384&cg=Center&wtmk=https://ci.encar.com/wt_mark/w_mark_04.png&t=20260709005408",
+      "link": "https://fem.encar.com/cars/detail/42330360?advClickPosition=mweb_mopre_g3_t222785&listAdvType=mpremium&type=detail&view_type=checked"
+    },
+    {
+      "brand": "기아 더 뉴 카니발 9인승 노블레스 스페셜",
+      "model": "더 뉴",
+      "year": 2019,
+      "mileage_km": 56145,
+      "price_krw": 21500000,
+      "image": "https://ci.encar.com/carpicture/carpicture03/pic4223/42231327_001.jpg?impolicy=heightRate&rh=384&cw=640&ch=384&cg=Center&wtmk=https://ci.encar.com/wt_mark/w_mark_04.png&t=20260623022030",
+      "link": "https://fem.encar.com/cars/detail/42231327?advClickPosition=mweb_mopre_g4_t222785&listAdvType=mpremium&type=detail&view_type=checked"
+    },
+    {
+      "brand": "아우디 A7 (4K) 55 TFSI 콰트로 프리미엄",
+      "model": "A7 (4K)",
+      "year": 2020,
+      "mileage_km": 96494,
+      "price_krw": 35890000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/41614880?advClickPosition=mweb_mopre_g5_t222785&listAdvType=mpremium&type=detail&view_type=checked"
+    },
+    {
+      "brand": "테슬라 모델 Y 롱 레인지 AWD",
+      "model": "모델 Y",
       "year": 2021,
-      "mileage_km": 67493,
-      "price_krw": 18800000,
-      "image": "https://ci.encar.com/carpicture/carpicture01/pic4221/42210580_001.jpg?impolicy=heightRate&rh=384&cw=640&ch=384&cg=Center&wtmk=https://ci.encar.com/wt_mark/w_mark_04.png&t=20260619050951",
-      "link": "https://fem.encar.com/cars/detail/42210580?advClickPosition=mweb_mopre_g3_t225563&listAdvType=mpremium&type=detail&view_type=checked"
-    },
-    {
-      "brand": "현대 팰리세이드 (LX3) 가솔린 2.5T 2WD 9인승 캘리그래피",
-      "model": "팰리세이드 (LX3)",
-      "year": 2025,
-      "mileage_km": 30238,
-      "price_krw": 50900000,
-      "image": "https://ci.encar.com/carpicture/carpicture04/pic4224/42243495_001.jpg?impolicy=heightRate&rh=384&cw=640&ch=384&cg=Center&wtmk=https://ci.encar.com/wt_mark/w_mark_04.png&t=20260624062419",
-      "link": "https://fem.encar.com/cars/detail/42243495?advClickPosition=mweb_mopre_g4_t225563&listAdvType=mpremium&type=detail&view_type=checked"
-    },
-    {
-      "brand": "기아 더 뉴 모닝 (JA) 프레스티지",
-      "model": "더 뉴",
-      "year": 2025,
-      "mileage_km": 1,
-      "price_krw": 260000,
+      "mileage_km": 124345,
+      "price_krw": 32500000,
       "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42111768?advClickPosition=mweb_mopre_g5_t225563&listAdvType=mpremium&type=detail&view_type=normal"
+      "link": "https://fem.encar.com/cars/detail/42225239?advClickPosition=mweb_mopre_g6_t222785&listAdvType=mpremium&type=detail&view_type=checked"
     },
     {
-      "brand": "현대 쏘나타 하이브리드 (DN8) 인스퍼레이션",
-      "model": "쏘나타 하이브리드",
-      "year": 2022,
-      "mileage_km": 107722,
-      "price_krw": 16900000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42235127?advClickPosition=mweb_mopre_g6_t225563&listAdvType=mpremium&type=detail&view_type=normal"
-    },
-    {
-      "brand": "기아 더 뉴 레이 LPI 프레스티지",
-      "model": "더 뉴",
-      "year": 2018,
-      "mileage_km": 127810,
-      "price_krw": 12900000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42063908?advClickPosition=mweb_mopre_g7_t225563&listAdvType=mpremium&type=detail&view_type=checked"
-    },
-    {
-      "brand": "르노코리아(삼성) 더 뉴 QM6 2.0 LPe LE 시그니처 2WD",
-      "model": "더 뉴",
-      "year": 2022,
-      "mileage_km": 52161,
-      "price_krw": 17500000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/40695939?advClickPosition=mweb_mopre_g8_t225563&listAdvType=mpremium&type=detail&view_type=checked"
-    },
-    {
-      "brand": "벤츠 S-클래스 W223 S400 d 4MATIC",
-      "model": "S-클래스 W223",
-      "year": 2022,
-      "mileage_km": 13736,
-      "price_krw": 103500000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/41729539?advClickPosition=mweb_mopre_g9_t225563&listAdvType=mpremium&type=detail&view_type=checked"
-    },
-    {
-      "brand": "BMW Z4 (G29) sDrive20i M 스포츠",
-      "model": "Z4 (G29)",
-      "year": 2020,
-      "mileage_km": 53812,
-      "price_krw": 39500000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42341174?advClickPosition=mweb_mopre_g10_t225563&listAdvType=mpremium&type=detail&view_type=checked"
-    },
-    {
-      "brand": "포르쉐 마칸 3.6 터보 95B",
-      "model": "마칸",
-      "year": 2017,
-      "mileage_km": 137831,
-      "price_krw": 30500000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42065557?advClickPosition=mweb_mhightlight_g1_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "KG모빌리티(쌍용) 코란도 투리스모 4WD 샤토 9인승 하이 리무진",
-      "model": "코란도 투리스모",
-      "year": 2018,
-      "mileage_km": 152734,
-      "price_krw": 14900000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42006490?advClickPosition=mweb_mhightlight_g2_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "제네시스 GV70 2.2 디젤 AWD",
-      "model": "GV70",
-      "year": 2021,
-      "mileage_km": 103322,
-      "price_krw": 30500000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42308021?advClickPosition=mweb_mhightlight_g3_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "제네시스 GV80 3.5T 가솔린 AWD",
-      "model": "GV80",
-      "year": 2020,
-      "mileage_km": 194371,
-      "price_krw": 29400000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42241322?advClickPosition=mweb_mhightlight_g4_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "벤츠 C-클래스 W205 C200 아방가르드",
-      "model": "C-클래스 W205",
-      "year": 2020,
-      "mileage_km": 56450,
-      "price_krw": 21200000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42187562?advClickPosition=mweb_mhightlight_g5_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "기아 더 뉴 카니발 9인승 하이리무진 노블레스 스페셜",
-      "model": "더 뉴",
-      "year": 2019,
-      "mileage_km": 142776,
-      "price_krw": 20000000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42148784?advClickPosition=mweb_mhightlight_g6_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "기아 스팅어 마이스터 2.5 AWD 마스터즈",
-      "model": "스팅어 마이스터",
-      "year": 2020,
-      "mileage_km": 72707,
-      "price_krw": 26900000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/41182830?advClickPosition=mweb_mhightlight_g7_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "쉐보레(GM대우) 더 뉴 말리부 1.6 디젤 LT 프리미엄",
-      "model": "더 뉴",
-      "year": 2019,
-      "mileage_km": 72447,
-      "price_krw": 11800000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/41129831?advClickPosition=mweb_mhightlight_g8_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "제네시스 더 뉴 G70 가솔린 2.0T 4WD",
-      "model": "더 뉴",
-      "year": 2022,
-      "mileage_km": 95187,
-      "price_krw": 22900000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/41138044?advClickPosition=mweb_mhightlight_g9_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "지프 컴패스 2세대 2.4 리미티드 AWD",
-      "model": "컴패스 2세대",
-      "year": 2019,
-      "mileage_km": 70581,
-      "price_krw": 12500000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/40930592?advClickPosition=mweb_mhightlight_g10_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "기아 더 뉴 K3 2세대 1.6 터보 GT 5도어 시그니처",
-      "model": "더 뉴",
-      "year": 2022,
-      "mileage_km": 93305,
-      "price_krw": 16200000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/40788364?advClickPosition=mweb_mhightlight_g11_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "아우디 Q4 e-트론 (F4) 40 프리미엄 스포트백",
-      "model": "Q4 e-트론",
-      "year": 2022,
-      "mileage_km": 59412,
-      "price_krw": 37500000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/41065507?advClickPosition=mweb_mhightlight_g12_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "아우디 Q4 e-트론 (F4) 40",
-      "model": "Q4 e-트론",
-      "year": 2022,
-      "mileage_km": 71265,
-      "price_krw": 35000000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/41085575?advClickPosition=mweb_mhightlight_g13_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "지프 레니게이드 2.4 리미티드 AWD",
-      "model": "레니게이드",
-      "year": 2019,
-      "mileage_km": 66806,
-      "price_krw": 15200000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/41076686?advClickPosition=mweb_mhightlight_g14_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "기아 더 뉴 카니발 4세대 HEV 9인승 하이리무진 시그니처",
-      "model": "더 뉴",
-      "year": 2024,
-      "mileage_km": 62119,
-      "price_krw": 54000000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/41065719?advClickPosition=mweb_mhightlight_g15_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "제네시스 G70 2.0T AWD 엘리트",
-      "model": "G70",
-      "year": 2020,
-      "mileage_km": 94545,
-      "price_krw": 19300000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42347291?advClickPosition=mweb_mhightlight_g16_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "기아 더 뉴 카니발 9인승 노블레스",
-      "model": "더 뉴",
-      "year": 2019,
-      "mileage_km": 29268,
-      "price_krw": 19900000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42343386?advClickPosition=mweb_mhightlight_g17_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "제네시스 GV70 2.5T 가솔린 AWD",
-      "model": "GV70",
-      "year": 2021,
-      "mileage_km": 57805,
-      "price_krw": 35000000,
-      "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42344609?advClickPosition=mweb_mhightlight_g18_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
-    },
-    {
-      "brand": "현대 아반떼 (CN7) 1.6 모던",
+      "brand": "현대 아반떼 (CN7) 2.0 N",
       "model": "아반떼 (CN7)",
       "year": 2022,
-      "mileage_km": 83114,
-      "price_krw": 14900000,
+      "mileage_km": 25088,
+      "price_krw": 23790000,
       "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42347037?advClickPosition=mweb_mhightlight_g19_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+      "link": "https://fem.encar.com/cars/detail/41646724?advClickPosition=mweb_mopre_g7_t222785&listAdvType=mpremium&type=detail&view_type=checked"
     },
     {
-      "brand": "현대 넥쏘 프리미엄",
-      "model": "넥쏘",
-      "year": 2021,
-      "mileage_km": 97669,
-      "price_krw": 16800000,
+      "brand": "기아 더 뉴 카니발 4세대 가솔린 9인승 하이리무진 (특장업체)",
+      "model": "더 뉴",
+      "year": 2024,
+      "mileage_km": 48092,
+      "price_krw": 67900000,
       "image": "https://car.encar.com/images/assets/common/trans.gif",
-      "link": "https://fem.encar.com/cars/detail/42341646?advClickPosition=mweb_mhightlight_g20_t225563&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+      "link": "https://fem.encar.com/cars/detail/42328216?advClickPosition=mweb_mopre_g8_t222785&listAdvType=mpremium&type=detail&view_type=checked"
+    },
+    {
+      "brand": "현대 더 뉴 그랜드 스타렉스 밴 5인승 모던",
+      "model": "더 뉴",
+      "year": 2019,
+      "mileage_km": 158666,
+      "price_krw": 12000000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/41525121?advClickPosition=mweb_mopre_g9_t222785&listAdvType=mpremium&type=detail&view_type=checked"
+    },
+    {
+      "brand": "BMW 7시리즈 (G11) M760Li xDrive",
+      "model": "7시리즈 (G11)",
+      "year": 2018,
+      "mileage_km": 98235,
+      "price_krw": 45000000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/39254046?advClickPosition=mweb_mopre_g10_t222785&listAdvType=mpremium&type=detail&view_type=checked"
+    },
+    {
+      "brand": "KG모빌리티(쌍용) 티볼리 아머 기어 에디션 2WD",
+      "model": "티볼리 아머",
+      "year": 2017,
+      "mileage_km": 33433,
+      "price_krw": 10900000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/42188171?advClickPosition=mweb_mhightlight_g1_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "현대 그랜저 HG HG300 로얄",
+      "model": "그랜저 HG",
+      "year": 2012,
+      "mileage_km": 149668,
+      "price_krw": 4800000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/42187440?advClickPosition=mweb_mhightlight_g2_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "아우디 A6 (C8) 40 TDI 프리미엄",
+      "model": "A6 (C8)",
+      "year": 2023,
+      "mileage_km": 30192,
+      "price_krw": 35500000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/42234745?advClickPosition=mweb_mhightlight_g3_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "쉐보레(GM대우) 트래버스 3.6 AWD 레드라인",
+      "model": "트래버스",
+      "year": 2021,
+      "mileage_km": 20348,
+      "price_krw": 26700000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/41401021?advClickPosition=mweb_mhightlight_g4_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "쉐보레(GM대우) 어메이징 뉴 크루즈 1.4 터보 LTZ",
+      "model": "어메이징 뉴",
+      "year": 2016,
+      "mileage_km": 50306,
+      "price_krw": 5300000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/41970828?advClickPosition=mweb_mhightlight_g5_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "기아 올 뉴 모닝 (JA) 레이디",
+      "model": "올 뉴",
+      "year": 2017,
+      "mileage_km": 95385,
+      "price_krw": 7400000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/41777148?advClickPosition=mweb_mhightlight_g6_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "볼보 XC40 T4 인스크립션",
+      "model": "XC40",
+      "year": 2019,
+      "mileage_km": 51209,
+      "price_krw": 26400000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/42088968?advClickPosition=mweb_mhightlight_g7_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "KG모빌리티(쌍용) 티볼리 에어 디젤 IX 2WD",
+      "model": "티볼리 에어",
+      "year": 2016,
+      "mileage_km": 97087,
+      "price_krw": 6600000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/42327480?advClickPosition=mweb_mhightlight_g8_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "기아 올 뉴 K3 프레스티지",
+      "model": "올 뉴",
+      "year": 2018,
+      "mileage_km": 121292,
+      "price_krw": 10500000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/41964343?advClickPosition=mweb_mhightlight_g9_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "벤츠 C-클래스 W205 C200 AMG Line",
+      "model": "C-클래스 W205",
+      "year": 2021,
+      "mileage_km": 41373,
+      "price_krw": 26500000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/41766778?advClickPosition=mweb_mhightlight_g10_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "현대 i30 (PD) 1.6 터보 N Line",
+      "model": "i30 (PD)",
+      "year": 2020,
+      "mileage_km": 89623,
+      "price_krw": 14900000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/41766545?advClickPosition=mweb_mhightlight_g11_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "현대 그랜저 HG HG240 모던 컬렉션",
+      "model": "그랜저 HG",
+      "year": 2016,
+      "mileage_km": 40870,
+      "price_krw": 10500000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/42322999?advClickPosition=mweb_mhightlight_g12_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "현대 쏘나타 디 엣지(DN8) 2.0 LPG(렌터카) 비즈니스 1",
+      "model": "쏘나타 디",
+      "year": 2023,
+      "mileage_km": 39453,
+      "price_krw": 21900000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/42352206?advClickPosition=mweb_mhightlight_g13_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "KG모빌리티(쌍용) 뷰티풀 코란도 디젤 1.6 2WD 딜라이트 플러스",
+      "model": "뷰티풀 코란도",
+      "year": 2019,
+      "mileage_km": 41414,
+      "price_krw": 12900000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/41746082?advClickPosition=mweb_mhightlight_g14_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "쉐보레(GM대우) 더 넥스트 스파크 LTZ",
+      "model": "더 넥스트",
+      "year": 2015,
+      "mileage_km": 118222,
+      "price_krw": 4500000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/41926354?advClickPosition=mweb_mhightlight_g15_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "쉐보레(GM대우) 임팔라 2.5 LTZ",
+      "model": "임팔라",
+      "year": 2017,
+      "mileage_km": 105468,
+      "price_krw": 6900000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/42163993?advClickPosition=mweb_mhightlight_g16_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "현대 스타리아 카고 5인승 모던",
+      "model": "스타리아",
+      "year": 2023,
+      "mileage_km": 31062,
+      "price_krw": 24500000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/42295077?advClickPosition=mweb_mhightlight_g17_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "쉐보레(GM대우) 더 뉴 트랙스 1.4 레드라인 LT 코어",
+      "model": "더 뉴",
+      "year": 2020,
+      "mileage_km": 60326,
+      "price_krw": 10500000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/42303841?advClickPosition=mweb_mhightlight_g18_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "벤츠 CLS-클래스 W218 CLS250 d 4MATIC AMG Line",
+      "model": "CLS-클래스 W218",
+      "year": 2017,
+      "mileage_km": 118889,
+      "price_krw": 19500000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/42347582?advClickPosition=mweb_mhightlight_g19_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
+    },
+    {
+      "brand": "기아 스포티지 4세대 디젤 1.7 2WD 노블레스",
+      "model": "스포티지 4세대",
+      "year": 2017,
+      "mileage_km": 91899,
+      "price_krw": 11500000,
+      "image": "https://car.encar.com/images/assets/common/trans.gif",
+      "link": "https://fem.encar.com/cars/detail/41995656?advClickPosition=mweb_mhightlight_g20_t222785&listAdvType=mhighlight&type=detail&view_type=hs_ad"
     }
   ]
 }
